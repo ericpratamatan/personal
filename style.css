@@ -1,0 +1,28 @@
+.kotak1 {
+    background-color: aqua;
+}
+
+.kotak2 {
+    background-color: rgb(65, 164, 64);
+}
+
+.kotak3 {
+    background-color: rgb(109, 119, 197);
+}
+
+.judul {
+    color: red;
+    font-size: 25px;
+}
+
+.footer {
+    background-color: burlywood;
+}
+
+body {
+    height: 1000px;
+}
+
+.mySlides {
+    display: none;
+}
